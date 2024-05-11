@@ -1,4 +1,4 @@
-                                     !Naruto Raposa de Nove Caudas
+                                     !Descrição do GIF
 
 # Jedai_Talita_Lisboa_ChatBot_Imersao
 Com prazer! Aqui está o seu texto corrigido e aprimorado:
