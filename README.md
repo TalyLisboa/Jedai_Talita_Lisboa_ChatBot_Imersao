@@ -1,6 +1,10 @@
 # Jedai_Talita_Lisboa_ChatBot_Imersao
-ChatBot criado para o Projeto da Imersão Alura + Google
-Olá! Me chamo Talita, e sou dev desde 2011! Estou me atualizando com os métodos da Alura nessa imersão incrível!
-Nesse código brinquei um pouco com a IA da qual já estava familiarizada, pois uso muito diariamente.
-Também vocês vão notar que usei várias bibliotecas que são comumente usadas em projetos de IA, como PyTorch, mas não as utiliza para qualquer funcionalidade de IA específica. PyTorch é uma biblioteca popular para aprendizado de máquina e IA que fornece recursos para treinar e implantar modelos de aprendizado de máquina.
-Espero que gostem do Jedai :))))
+Com prazer! Aqui está o seu texto corrigido e aprimorado:
+
+"É com grande satisfação que apresento o **Jedai**, um chatbot que criei utilizando meus conhecimentos em Python, diretamente no Google Colab. Utilizei técnicas simples, porém eficazes, de engenharia de prompt para ensinar o Jedai a realizar tarefas como classificar informações, criar histórias envolventes e descrever imagens de maneira descontraída.
+
+Um dos aspectos mais fascinantes do Jedai é sua capacidade de captar nuances de emoções e dramatizar certos assuntos. Isso torna o diálogo mais fluido e natural, mesmo sendo uma criação feita de chips e componentes eletrônicos. 
+
+Estou ansioso para compartilhar com todos o aplicativo do Jedai que estou desenvolvendo. Cada minuto dedicado a este projeto foi uma jornada de aprendizado e descoberta, e estou particularmente grata pela imersão proporcionada pela Alura e pelo Google.
+
+Espero que vocês apreciem a simplicidade e eficácia do Jedai, e vejam como a Inteligência Artificial pode ser usada para criar interações significativas e envolventes. Obrigada por tudo!" 😊
