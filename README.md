@@ -4,7 +4,6 @@
 
    ![Alura](https://www.alura.com.br/assets/img/escola-categorias/sharing/escola-inteligencia-artificial-share.1688757125.jpg)                   
 # Jedai_Talita_Lisboa_ChatBot_Imersao
-Com prazer! Aqui está o seu texto corrigido e aprimorado:
 
 "É com grande satisfação que apresento o **Jedai**, um chatbot que criei utilizando meus conhecimentos em Python, diretamente no Google Colab. Utilizei técnicas simples, porém eficazes, de engenharia de prompt para ensinar o Jedai a realizar tarefas como classificar informações, criar histórias envolventes e descrever imagens de maneira descontraída.
 
