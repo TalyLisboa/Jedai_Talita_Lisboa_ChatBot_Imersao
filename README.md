@@ -1,5 +1,4 @@
-!Texto Alternativo
-!naruto.gif
+                                     !Naruto Raposa de Nove Caudas
 
 # Jedai_Talita_Lisboa_ChatBot_Imersao
 Com prazer! Aqui está o seu texto corrigido e aprimorado:
