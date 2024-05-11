@@ -1,4 +1,8 @@
-                   
+### Projeto Imersão Alura + Google 🚀
+
+###
+
+   ![Alura](https://www.alura.com.br/assets/img/escola-categorias/sharing/escola-inteligencia-artificial-share.1688757125.jpg)                   
 # Jedai_Talita_Lisboa_ChatBot_Imersao
 Com prazer! Aqui está o seu texto corrigido e aprimorado:
 
@@ -10,4 +14,4 @@ Estou ansiosa para compartilhar com todos o aplicativo do Jedai que estou desenv
 
 Espero que vocês apreciem a simplicidade e eficácia do Jedai, e vejam como a Inteligência Artificial pode ser usada para criar interações significativas e envolventes. Obrigada por tudo!" 😊
 
-                  https://pa1.narvii.com/6317/752c734a328a55f2b7fa7f85a137ef6f2716155e_hq.gif
+ ![ChatBotJedai](https://th.bing.com/th/id/R.4ac4475b5095c012bb34a5f992187a81?rik=VJOsCyG6eZeZNg&riu=http%3a%2f%2fi.imgur.com%2fRV56g.gif&ehk=pUVGgDbaavPhbX8wqG%2be2Z%2fVVkdRBF5S0LbL1mTNTYg%3d&risl=&pid=ImgRaw&r=0) 
